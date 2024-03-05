@@ -1,0 +1,5 @@
+{
+  "/promotions/page": "app/promotions/page.js",
+  "/livecasino/page": "app/livecasino/page.js",
+  "/(index)/page": "app/(index)/page.js"
+}
